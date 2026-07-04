@@ -1,4 +1,4 @@
-#
+AI Marketing Copy Generator
 
 A Python application that generates platform-specific marketing copy using Large Language Models (LLMs) through the OpenRouter API. The application dynamically adapts its prompts based on the selected platform, tone, and character limit to produce high-quality marketing content.
 
