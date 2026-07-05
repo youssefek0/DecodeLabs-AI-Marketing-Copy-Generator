@@ -146,6 +146,11 @@ JSON / CSV Output
 
 ## Example Prompt
 
+/////////////////////////////////////
+ IN TERMINAL:
+ python main.py --product "AirPods Pro" --platform Instagram --tone Witty
+/////////////////////////////////////
+
 ```text
 Product: AirPods Pro
 Platform: Instagram
@@ -207,7 +212,5 @@ Computer Science & Engineering student with an interest in Artificial Intelligen
 
 ---
 
-## License
 
-This project is intended for educational and portfolio purposes.
 
